@@ -1,0 +1,13 @@
+package com.GDMS.rest;
+
+public class RestCode {
+    int LOGIN_EXPERSS = 10;
+    int RESULT_SUCCESS = 0;
+    int RESULT_NOT_LOGIN_ERROR = 100;
+    int RESULT_LOGIN_EXPIRE_ERROR = 101;
+    int RESULT_USER_INFO_ERROR = 102;
+    int RESULT_USER_DISABLE = 103;
+    int RESULT_PARAM_ERROR = 200;
+    int RESULT_PARAM_VERVIFY_ERROR = 201;
+    int RESULT_SYSTEM_ERROR = 500;
+}
